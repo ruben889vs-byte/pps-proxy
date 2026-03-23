@@ -1,0 +1,5 @@
+{
+  "name": "pps-gis-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for Property Plan Solutions GIS queries"
+}
